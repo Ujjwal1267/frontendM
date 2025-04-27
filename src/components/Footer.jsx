@@ -55,7 +55,7 @@ const Footer = () => {
              Education-Platform
               </a>
               
-              <a href=" https://testnomial-lthe.onrender.com " target="_blank" rel="noopener noreferrer" className="edu-tech-btn">
+              <a href="https://testnomialp.onrender.com" target="_blank" rel="noopener noreferrer" className="edu-tech-btn">
                   Valuable Feedback
                </a>
             </ul>
