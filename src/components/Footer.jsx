@@ -51,7 +51,7 @@ const Footer = () => {
               <Link to={"/"}>Home</Link>
               <Link to={"/appointment"}>Appointment</Link>
               <Link to={"/about"}>About</Link>
-                         <a href="https://education-platform-psi.vercel.app/" target="_blank" rel="noopener noreferrer" className="edu-tech-btn">
+                         <a href="https://edutestt.onrender.com" target="_blank" rel="noopener noreferrer" className="edu-tech-btn">
              Education-Platform
               </a>
               
